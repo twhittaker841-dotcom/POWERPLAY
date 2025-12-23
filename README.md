@@ -16,3 +16,4 @@ Go to **PLAY LOCAL** from the main menu.
 Review each country's starting **Economy, Military, and Resources** to pick a nation that matches your play style.
 Use the **SETTINGS** menu to adjust difficulty and preferences before starting.
 Global domination awaits, Commander.
+.
