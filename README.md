@@ -1,6 +1,4 @@
- POWERPLAY
-i am coding a game called POWERPLAY
-The Game Objective
+
 Welcome to **POWERPLAY**. You take control of a **real-world country today**, and from that moment, the timeline becomes an **alternate history** shaped entirely by your strategic decisions. Your ultimate goal is to **dominate** the global map or achieve a specific victory condition over your rivals.
 
 Managing Your Nation
